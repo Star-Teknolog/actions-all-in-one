@@ -1,4 +1,4 @@
-name: 'SecureStack All-In-One GitHub Action'
+name: 'Safedebris Colletion GitHub Actions'
 description: 'Scans your app for sensitive data & secrets, vulnerable third-party libraries, cloud misconfigurations & web vulnerabilities'
 branding:
   icon: 'shield'  
