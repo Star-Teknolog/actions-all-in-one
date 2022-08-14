@@ -1,4 +1,4 @@
-name: 'Safedebris Colletion GitHub Actions'
+name: 'Safedebris Colletion GitHub Action'
 description: 'Scans your app for sensitive data & secrets, vulnerable third-party libraries, cloud misconfigurations & web vulnerabilities'
 branding:
   icon: 'shield'  
